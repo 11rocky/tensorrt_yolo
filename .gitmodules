@@ -1,0 +1,9 @@
+[submodule "3rdparty/pystring"]
+	path = 3rdparty/pystring
+	url = https://github.com/imageworks/pystring.git
+[submodule "3rdparty/argparse"]
+	path = 3rdparty/argparse
+	url = https://github.com/p-ranav/argparse.git
+[submodule "3rdparty/fmt"]
+	path = 3rdparty/fmt
+	url = https://github.com/fmtlib/fmt.git
